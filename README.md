@@ -40,7 +40,7 @@ The model leverages the MobileNetV2 architecture, pre-trained on the ImageNet da
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/maybeitsai/scientific-image-classification
+    git clone https://github.com/harrymardika/scientific-image-classification
     cd scientific-image-classification
     ```
 
